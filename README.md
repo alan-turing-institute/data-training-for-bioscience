@@ -16,16 +16,16 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
 - [The Carpentries Incubator Programme](https://github.com/carpentries-incubator)
 - [Open Life Science](https://openlifesci.org/)
 
-- Core/Funded Positions
-  - Member from the [Turing Research Engineering Group](https://www.turing.ac.uk/research-engineering) to help develop this training material, TBD
-  - Community Manager, [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science) to support the community engagement through open source development, TBD
-  - Member from [The Francis Crick Institute](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute) to represent this partnership and help coordinate this project from the Crick's side, TBD
+**Core/Funded Positions**
+- Member from the [Turing Research Engineering Group](https://www.turing.ac.uk/research-engineering) to help develop this training material, TBD
+- Community Manager, [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science) to support the community engagement through open source development, TBD
+- Member from [The Francis Crick Institute](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute) to represent this partnership and help coordinate this project from the Crick's side, TBD
 
-- Proposal Leads
+**Proposal Leads**
   - [Prof. Ben MacArthur](https://www.turing.ac.uk/people/researchers/ben-macarthur), Director of AI for Science and Government, Deputy Programme Director for Health and Medical Sciences
+  - [Dr. Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan), Tools, Practices and Systems Researcher
+  - [Dr. Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), Programme Director for Tools, Practices and Systems
   - [Prof. Chris Holmes](https://www.turing.ac.uk/people/researchers/ben-macarthur), Programme Director for Health and Medical Sciences
-  - [Dr. Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), Programme Director for Tools, Practices and Systems (TPS)
-  - [Dr. Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan), TPS Researcher
 
 *Please create [an issue](https://github.com/alan-turing-institute/data-training-for-bioscience/issues) to share references or ideas related to the development of this project.*
 
