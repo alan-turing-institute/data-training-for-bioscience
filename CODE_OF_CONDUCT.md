@@ -72,7 +72,7 @@ disabilities.
 ### Reporting Issues
 
 If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the project maintainer:
-Malvika Sharan (msharan@turing.ac.uk)
+Malvika Sharan (msharan@turing.ac.uk).
 To report an issue involving Malvika Sharan, please email other leads of this project individually.
 
 All reports will be handled with discretion. In your report please include:
