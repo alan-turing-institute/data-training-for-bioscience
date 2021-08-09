@@ -51,4 +51,4 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
 - [ ] Seek feedback periodically from all stakeholders and invite contributions <-- The Turing Way community manager
 - [ ] Release the first draft and invite the community for testing the materials
 
-*Add any milestone or goals that are currently missing from the roadmap*
+*Add any milestone or goals that are currently missing from the roadmap.*
