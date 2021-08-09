@@ -7,11 +7,11 @@ Introduction to Data Science for Biomedical Scientists project is developed unde
 This project is being developed openly and invites contributions from anyone with prior experience in biology or data science who would like to get involved.
 You can suggest topics to include in this curriculum, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the training materials.
 
-We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities and projects involved in this event.
+We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities related to this project.
 
 Whatever is your availability, there is a way to contribute to this GitHub repository.
 
-🏃 I'm busy, I only have 5 minute
+👋 I'm busy, I only have 5 minute
 ---
 
 Look through our currently open [issues](https://github.com/alan-turing-institute/data-training-for-bioscience/issues) to troubleshoot an issue or participate in an ongoing discussion by commenting.
