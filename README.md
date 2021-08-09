@@ -38,6 +38,8 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
 - [x] Set up the repository to develop this project openly
 - [x] Identify potential contributors of this project at the Turing
 - [ ] Identify potential contributors of this project at the Crick
+- [ ] Identify potential contributors from the wider research community
+  - Other institutes, projects and people with vested interest
 - [ ] Define the common vision, mission and target audience
 - [ ] Define scope and stakeholders for the project (help develop a project charter)
 - [ ] Host meeting with all stakeholders to discuss
