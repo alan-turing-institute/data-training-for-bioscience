@@ -39,8 +39,11 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
 - [x] Identify potential contributors of this project at the Turing
 - [ ] Identify potential contributors of this project at the Crick
 - [ ] Define the common vision, mission and target audience
-- [ ] Define scope and stakeholders for the project
-- [ ] Host a meeting with all stakeholders to kick off the development 
+- [ ] Define scope and stakeholders for the project (help develop a project charter)
+- [ ] Host meeting with all stakeholders to discuss
+  - The initial plans, project charter and goals
+  - Agree on the best way to colleborate and communicate
+  - Monthly update and feedback on the development (align expectations)
 
 ### Development
 
