@@ -29,7 +29,8 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
 
 *Please create [an issue](https://github.com/alan-turing-institute/data-training-for-bioscience/issues) to share references or ideas related to the development of this project.*
 
-## Roadmap
+🎯 Roadmap
+---
 
 ### Logistics
 
@@ -51,4 +52,19 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
 - [ ] Seek feedback periodically from all stakeholders and invite contributions <-- The Turing Way community manager
 - [ ] Release the first draft and invite the community for testing the materials
 
-*Add any milestone or goals that are currently missing from the roadmap.*
+*Please create [an issue](https://github.com/alan-turing-institute/data-training-for-bioscience/issues) to add any milestone or goals that are currently missing from the roadmap.*
+
+📫 Contact
+---
+
+This project is maintained by Malvika Sharan.
+For any organisation related queries or concerns, you can directly reach out to her by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+
+♻️ License
+---
+
+This work is licensed under the MIT license (code) and Creative Commons Attribution 4.0 International license (for documentation). 
+You are free to share and adapt the material for any purpose, even commercially, 
+as long as you provide attribution (give appropriate credit, provide a link to the license, 
+and indicate if changes were made) in any reasonable manner, but not in any way that suggests the 
+licensor endorses you or your use, and with no additional restrictions.
