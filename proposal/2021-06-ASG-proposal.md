@@ -30,7 +30,6 @@ In addition, the proposed project will need the following resources:
 
 **Do you have someone in mind to conduct this work? If yes, please provide their details and when they would be available to start. Does this person consider themselves to be a member of an underrepresented group in STEM / Data Science?**
 
-One of the applicants, Malvika Sharan, is a woman from the Asian/Indian ethnic group.
 Recruitment for a Community Manager is planned in the next few months for The Turing Way as well as for ASG.
 
 **If you do not have someone in mind to conduct this work, what person specification requirements would be needed to develop the project?**
