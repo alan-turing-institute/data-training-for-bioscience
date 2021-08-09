@@ -44,9 +44,10 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
 
 ### Development
 
-- [ ] Define curriculum by selecting topics for content development
+- [ ] Define curriculum by selecting topics for content development (build concept map)
 - [ ] Select biological datasets - potentially provided by the Crick
 - [ ] Select open source references for reuse (see issues for reference materials)
+- [ ] Design training curriculum (concept map, data, reusable materials) using [Carpentries Development Handbook](https://cdh.carpentries.org/)
 - [ ] Set up the Carpentries template for material development (see [community lessons](https://carpentries.org/community-lessons/))
 - [ ] Define episodes (modules) and adapt training materials for biological datasets <-- REG member
 - [ ] Seek feedback periodically from all stakeholders and invite contributions <-- The Turing Way community manager
