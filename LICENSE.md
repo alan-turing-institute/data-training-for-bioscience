@@ -1,4 +1,4 @@
-# MIT and Creative Commons License
+# MIT (software) and Creative Commons (documentation) License
 
 ## MIT License
 
