@@ -5,18 +5,9 @@
 This project will facilitate the development of introductory training resources on good data science practices for early-career biomedical scientists. 
 Materials developed through this project will enable foundational training in reproducible research and data science for the wider cell and molecular biology community.
 
-Please see the [project proposal](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/proposal/2021-06-ASG-proposal.md) for details.
+<!--Please see the [project charters](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/2021-08-16-project-details.md) for details.-->
 
-## Stakeholders
-
-- [The Alan Turing Institute](https://www.turing.ac.uk)
-  - [Turing Research Engineering Group](https://www.turing.ac.uk/research-engineering): Roly Perera, May Yong, James Geddes
-  - [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-- [The Francis Crick Institute](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute)
-- [The Carpentries Incubator Programme](https://github.com/carpentries-incubator)
-- [Open Life Science](https://openlifesci.org/)
-
-**Core/Funded Positions**
+**Core Contributors/Projects**
 - Member from the [Turing Research Engineering Group](https://www.turing.ac.uk/research-engineering) to help develop this training material, TBD
 - Community Manager, [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science) to support the community engagement through open source development, TBD
 - Member from [The Francis Crick Institute](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute) to represent this partnership and help coordinate this project from the Crick's side, TBD
@@ -26,6 +17,7 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
   - [Dr. Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan), Tools, Practices and Systems Researcher
   - [Dr. Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), Programme Director for Tools, Practices and Systems
   - [Prof. Chris Holmes](https://www.turing.ac.uk/people/researchers/ben-macarthur), Programme Director for Health and Medical Sciences
+Please see the [project proposal](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/proposal/2021-06-ASG-proposal.md) for details.
 
 *Please create [an issue](https://github.com/alan-turing-institute/data-training-for-bioscience/issues) to share references or ideas related to the development of this project.*
 
@@ -36,18 +28,18 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
 
 - [x] Draft a proposal collaboratively to define the scope of this project
 - [x] Set up the repository to develop this project openly
+- [x] Define scope and stakeholders for the project (help develop a project charter)
 - [x] Identify potential contributors of this project at the Turing
 - [ ] Identify potential contributors of this project at the Crick
 - [ ] Identify potential contributors from the wider research community
   - Other institutes, projects and people with vested interest
 - [ ] Define the common vision, mission and target audience
-- [ ] Define scope and stakeholders for the project (help develop a project charter)
 - [ ] Host meeting with all stakeholders to discuss
   - The initial plans, project charter and goals
   - Agree on the best way to colleborate and communicate
   - Monthly update and feedback on the development (align expectations)
 
-### Development
+### Development Tasks
 
 - [ ] Define curriculum by selecting topics for content development (build concept map)
 - [ ] Select biological datasets - potentially provided by the Crick
