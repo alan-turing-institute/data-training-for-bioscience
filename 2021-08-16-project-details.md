@@ -20,7 +20,7 @@ Similar feedback has been received via the [Turing ‘omics interest group](http
 This project will help equip experimental biomedical scientists from all skills and career stages with the computational skills to carry out meaningful analyses of their datasets through data exploration, management, and visualisation.
 Our aim will be to present unfamiliar or complex material to experimentalists in a relatable and easily accessible way. 
 
-This project will directly addresses two main focus areas of AI for Science and Government research programmes: good data science practice; and effective communication to stakeholders. 
+This project will directly address two main focus areas of AI for Science and Government research programmes: good data science practice; and effective communication to stakeholders. 
 In building this project, we will integrate the 'Tools, practices and systems' (TPS) programme’s core values: build trustworthy systems; embed transparent reporting practices; promote inclusive interoperable design; maintain ethical integrity and encourage respectful co-creation.
 
 ## Main Considerations
@@ -56,7 +56,7 @@ These members will include, but are not limited to, the training department and 
     - [Software Sustainability Institute](https://www.software.ac.uk/) training lead
     - Training members from [EMBL Bio-IT](https://bio-it.embl.de/) and [EMBL-EBI](https://competency.ebi.ac.uk/)
     - Other projects with a vested interest
-- Graphic designer and illustrator: A scribe will be hired to help prepare training material in an attractive, professional and engaging format.
+- Graphic designer and illustrator: Scriberia artist/scribe will be hired to help prepare training material in an attractive, professional and engaging format.
 
 ## Milestones, Events and Stakeholder Engagement
 
@@ -124,7 +124,7 @@ These members will include, but are not limited to, the training department and 
 - Events: 
     - A meeting to discuss final resources and invite suggestions on topics/projects that should be included as next steps
     - An RFC is open for two weeks after the meeting to share any missing details and feedback
-    - Dissemination strategy for the training materials will be developed with the Open Life Science and Repro4Everyone teams to help design a self-paced format for cohort based training
+    - The dissemination strategy for the training materials will be developed with the Open Life Science and Repro4Everyone teams to help design a self-paced format for cohort-based training
 - Stakeholders: 
     - Everyone who has been involved in the project from the Crick, Turing and the wider open science training community
     - Open science project representatives from The Carpentries, The Turing Way, Repro4Everyone, Open Life Science, ELIXIR, Software Sustainability Institute
@@ -148,5 +148,5 @@ These members will include, but are not limited to, the training department and 
 - The Turing Way Slack workspace will be used for asynchronous chats and interactions among all contributors of this project.
 - Zoom will be used for hosting meetings and the final sprint event.
 - The Carpentries training template and incubator programme will be used for engaging with the open science training community, opening RFCs and ensuring long term sustainability of the training materials.
-- Cross disciplinary practices developed and documented in the project will be stored in The Turing Way as chapters under appropriate guides.
+- Cross-disciplinary practices developed and documented in the project will be stored in The Turing Way as chapters under appropriate guides.
 - Although the training course will be tailored to the biomedical sciences community, the overlap with other research communities will be considered to adapt training resources for other communities. We will engage with the data science for science theme in order to maximize cross-theme impact. Moreover, The Turing Way and REG members will maintain and share materials with domain-independent research practices that are transferable across themes.
