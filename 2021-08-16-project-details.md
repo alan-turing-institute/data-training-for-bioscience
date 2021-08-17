@@ -17,7 +17,7 @@ Training materials will be complemented carefully with biological datasets to en
 Initial projects and feedback from Crick partners including [The Crick-Turing Biomedical Data Science Awards](https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards) have indicated that there is a strong need to provide introductory resources for data science in bioscience researchers. 
 Similar feedback has been received via the [Turing ‘omics interest group](https://www.turing.ac.uk/research/interest-groups/omics-data-generation-and-analysis-group) indicating that there is a need for foundational training for the wider cell and molecular biology community. 
 
-In this project, data science introductory materials will be developed and shared for anyone to repurpose and promote good practice for computational reproducibility in biomedical research.
+This project will help equip experimental biomedical scientists from all skills and career stages with the computational skills to carry out meaningful analyses of their datasets through data exploration, management, and visualisation.
 Our aim will be to present unfamiliar or complex material to experimentalists in a relatable and easily accessible way. 
 
 This project will directly addresses two main focus areas of AI for Science and Government research programmes: good data science practice; and effective communication to stakeholders. 
@@ -26,7 +26,7 @@ In building this project, we will integrate the 'Tools, practices and systems' (
 ## Main Considerations
 
 Several computational resources already exist (see issues [#1](https://github.com/alan-turing-institute/data-training-for-bioscience/issues/1) and [#7](https://github.com/alan-turing-institute/data-training-for-bioscience/issues/7)), but targeted measures and opportunities are required to help build a shared understanding of good data science practices and reproducible research. 
-This project will help equip experimental biomedical scientists from all skills and career stages with the computational skills to carry out meaningful analyses of their datasets through data exploration, management, and visualisation. 
+In this project, data science introductory materials will be developed and shared for anyone to repurpose and promote good practice for computational reproducibility in biomedical research.
 One of the focuses of this project is to teach the importance of statistical approaches in biological research. 
 For example, understanding how computational skills and programming can help apply statistical approaches to data analysis and draw insights from their research.
 
