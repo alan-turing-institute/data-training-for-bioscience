@@ -8,33 +8,44 @@ Turing-Crick Introduction to Data Science for Bioscience and Biomedical Research
 
 The Turing-Crick Introduction to Data Science project, under [the Turing-Crick strategic partnership](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute), will provide data science learning resources for the experimental biologists and biomedical research communities.
 
-The Turing and Crick researchers will work with the interested members from the wider open science and bioinformatics communities to design and develop resources in this project. We will curate materials from the existing resources of [The Carpentries](https://carpentries.org/), [The Turing Way](https://the-turing-way.netlify.app/welcome) and several other relevant open source projects. Training materials will be complemented with biological datasets to ensure that materials are relatable for our target audience and presented in an accessible manner.
+The Turing and Crick researchers will work with the interested members from the wider open science and bioinformatics communities to design and develop curriculum and training resources in this project. 
+We will curate materials from [The Carpentries](https://carpentries.org/), [The Turing Way](https://the-turing-way.netlify.app/welcome) and several other relevant open source projects. 
+Training materials will be complemented carefully with biological datasets to ensure that materials are relatable for our target audience and presented in an accessible manner.
 
 ## Background and Motivation
 
-Initial projects and feedback from Crick partners including [The Crick-Turing Biomedical Data Science Awards](https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards) have indicated that there is a strong need to provide introductory resources for data science in bioscience researchers. Targeted measures and opportunities are required for experimental biomedical scientists from all skills and career stages to enhance a wider understanding of good data science practices and reproducible research. Similar feedback has been received via the [Turing ‘omics interest group](https://www.turing.ac.uk/research/interest-groups/omics-data-generation-and-analysis-group) indicating that there is a need for foundational training for the wider cell and molecular biology community.
+Initial projects and feedback from Crick partners including [The Crick-Turing Biomedical Data Science Awards](https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards) have indicated that there is a strong need to provide introductory resources for data science in bioscience researchers. 
+Similar feedback has been received via the [Turing ‘omics interest group](https://www.turing.ac.uk/research/interest-groups/omics-data-generation-and-analysis-group) indicating that there is a need for foundational training for the wider cell and molecular biology community. 
 
-The proposed project directly addresses two main focus areas of AI for Science and Government research programmes: good data science practice; and effective communication to stakeholders. Our aim will be to present unfamiliar or complex material to experimentalists in a relatable and easily accessible way. By collaboratively developing this project with domain experts and sharing it openly, we will demonstrate and establish a culture of good data science practice within experimental communities.
+In this project, data science introductory materials will be developed and shared for anyone to repurpose and promote good practice for computational reproducibility in biomedical research.
+Our aim will be to present unfamiliar or complex material to experimentalists in a relatable and easily accessible way. 
 
-In building this project, we will embed the 'Tools, practices and systems' (TPS) programme’s core values: build trustworthy systems; embed transparent reporting practices; promote inclusive interoperable design; maintain ethical integrity and encourage respectful co-creation.
+This project will directly addresses two main focus areas of AI for Science and Government research programmes: good data science practice; and effective communication to stakeholders. 
+In building this project, we will integrate the 'Tools, practices and systems' (TPS) programme’s core values: build trustworthy systems; embed transparent reporting practices; promote inclusive interoperable design; maintain ethical integrity and encourage respectful co-creation.
 
 ## Main Considerations
 
-In this project, data science training resources will be openly developed and shared for anyone to repurpose and promote good practice in computational reproducibility throughout the.
+Several computational resources already exist (see issues [#1](https://github.com/alan-turing-institute/data-training-for-bioscience/issues/1) and [#7](https://github.com/alan-turing-institute/data-training-for-bioscience/issues/7)), but targeted measures and opportunities are required to help build a shared understanding of good data science practices and reproducible research. 
+This project will help equip experimental biomedical scientists from all skills and career stages with the computational skills to carry out meaningful analyses of their datasets through data exploration, management, and visualisation. 
+One of the focuses of this project is to teach the importance of statistical approaches in biological research. 
+For example, understanding how computational skills and programming can help apply statistical approaches to data analysis and draw insights from their research.
 
 Our target audience will include early career researchers such as undergraduate and graduate students, and experimental biologists without prior experience in computational data analysis. 
-
-The materials will be designed considering the needs and workflows of bench-scientists who want to analyse their experimental data programmatically or carry other downstream analyses. We will keep both self-paced learning experiences and trainer-directed workshop formats in mind. There will be potential to expand this project in the future with materials and resources for intermediate and advanced learners.
-
-This course aims to equip them with the computational skills crucial for carrying out meaningful analyses through data exploration, management, and visualisation of their datasets. One of the focuses of this project is to teach the importance of statistical approaches in biological research. For example, understanding how computational skills and programming can help apply statistical approaches to data analysis and draw insights from their research. 
+The materials will be designed considering the needs and workflows of bench-scientists who want to analyse their experimental data programmatically or carry other downstream analyses. 
+We will keep both self-paced learning experiences and trainer-directed workshop formats in mind. 
+There will be potential to expand this project in the future with materials and resources for intermediate and advanced learners.
 
 Example datasets and case studies provided by different stakeholders or curated from the public database will ensure that learners can see the biological relevance of different analysis methods.
+
+By collaboratively and openly developing this project with domain experts, we will demonstrate and establish a culture of collaborative data science practice within experimental communities.
 
 ## Stakeholder, Roles and Responsibilities
 
 - A [Research Engineering Group](https://www.turing.ac.uk/research-engineering) (REG) member: They will help develop and present training materials in an intuitive format that is accessible to experimentalists. This position is allocated at 0.5 FTE for 6 months.
-- [The Turing Way](https://the-turing-way.netlify.app) community manager: They will coordinate the development and delivery of training materials, as well as help implement the dissemination plans for all the output generated in this project. This position is allocated at 0.2 FTE for 6 months. 
-- [The Crick](https://www.crick.ac.uk/) researchers involved in this project: Partnership leads will be connecting the project team with the relevant members in the Crick who will be crucial for the development of this project. These members will include, but are not limited to, the training department and PhD representatives/volunteers.
+- [The Turing Way](https://the-turing-way.netlify.app) community manager: 
+They will coordinate the development and delivery of training materials, as well as help implement the dissemination plans for all the output generated in this project. This position is allocated at 0.2 FTE for 6 months. 
+- [The Crick](https://www.crick.ac.uk/) researchers involved in this project: Partnership leads will be connecting the project team with the relevant members in the Crick who will be crucial for the development of this project. 
+These members will include, but are not limited to, the training department and PhD representatives/volunteers.
 - [The Turing](https://www.turing.ac.uk/) researchers involved in this project: Partnership leads will be connecting the project team with the relevant members from the Crick and other relevant teams at the Turing, such as the omics interest groups and REG members.
 - Open Science Training Network: This project will engage several training communities in data science, bioinformatics and software development skills.
     - [The Carpentries](https://carpentries.org/) training development team
