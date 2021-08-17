@@ -78,7 +78,7 @@ These members will include, but are not limited to, the training department and 
         - specific gaps they see in their training where the resources from the project can be allocated
         - data from the Crick research that can be used in developing the training materials
     - Projected timeframe: 6 weeks - October to mid-November 2021
-    - Time requested from volunteers: 30 minutes to respond to GitHub issue to help collect resources, references or leave specific comments
+    - Time requested from volunteers: 30-60 minutes to respond to GitHub issue to help collect resources, references or leave specific comments. This can be done asynchronously, or by attending a discussion session organised by the project team.
 
 **3. Scoping and planning**
 - Milestone: Based on the finding from landscape analysis, we will scope what content will be included in the curriculum and how it will be developed
