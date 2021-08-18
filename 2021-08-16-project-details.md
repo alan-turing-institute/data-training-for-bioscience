@@ -46,7 +46,7 @@ By collaboratively and openly developing this project with domain experts, we wi
 They will coordinate the development and delivery of training materials, as well as help implement the dissemination plans for all the output generated in this project. This position is allocated at 0.2 FTE for 6 months. 
 - [The Crick](https://www.crick.ac.uk/) researchers involved in this project: Partnership leads will be connecting the project team with the relevant members in the Crick who will be crucial for the development of this project. 
 These members will include, but are not limited to, the training department and PhD representatives/volunteers.
-- [The Turing](https://www.turing.ac.uk/) researchers involved in this project: Partnership leads will be connecting the project team with the relevant members from the Crick and other relevant teams at the Turing, such as the omics interest groups and REG members.
+- [The Turing](https://www.turing.ac.uk/) researchers and Research Applications Team involved in this project: Partnership leads will be connecting the project team with the relevant members from the Crick and other relevant teams at the Turing, such as the omics interest groups and REG members.
 - Open Science Training Network: This project will engage several training communities in data science, bioinformatics and software development skills.
     - [The Carpentries](https://carpentries.org/) training development team
     - [Open Life Science](https://openlifesci.org/)
