@@ -8,9 +8,9 @@ Materials developed through this project will enable foundational training in re
 <!--Please see the [project charters](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/2021-08-16-project-details.md) for details.-->
 
 **Core Contributors/Projects**
-- Member from the [Turing Research Engineering Group](https://www.turing.ac.uk/research-engineering) to help develop this training material, TBD
-- Community Manager, [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science) to support the community engagement through open source development, TBD
-- Member from [The Francis Crick Institute](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute) to represent this partnership and help coordinate this project from the Crick's side, TBD
+- Member from the [Turing Research Engineering Group](https://www.turing.ac.uk/research-engineering) to help develop this training material
+- Community Manager, [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science) to support the community engagement through open source development
+- Member from [The Francis Crick Institute](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute) to represent this partnership and help coordinate this project from the Crick's side
 
 **Proposal Leads**
   - [Prof. Ben MacArthur](https://www.turing.ac.uk/people/researchers/ben-macarthur), Director of AI for Science and Government, Deputy Programme Director for Health and Medical Sciences
@@ -24,7 +24,9 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
 🎯 Roadmap
 ---
 
-### Logistics
+Please see the [Project Charter](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/2021-08-16-project-details.md) for details.
+
+### Logistics before starting the project
 
 - [x] Draft a proposal collaboratively to define the scope of this project
 - [x] Set up the repository to develop this project openly
@@ -34,7 +36,7 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
 - [ ] Identify potential contributors from the wider research community
   - Other institutes, projects and people with vested interest
 - [ ] Define the common vision, mission and target audience
-- [ ] Host meeting with all stakeholders to discuss
+- [ ] Host meetings with all stakeholders to discuss
   - The initial plans, project charter and goals
   - Agree on the best way to colleborate and communicate
   - Monthly update and feedback on the development (align expectations)
