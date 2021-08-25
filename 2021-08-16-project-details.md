@@ -52,10 +52,11 @@ These members will include, but are not limited to, the training department and 
     - [Open Life Science](https://openlifesci.org/)
     - [Life Science Trainers](https://lifescitrainers.org/author/lifescitraining/) community
     - [Repro4Everyone](https://www.repro4everyone.org/) members
-    - [ELIXIR training platform](https://elixir-europe.org/platforms/training) leads
     - [Software Sustainability Institute](https://www.software.ac.uk/) training lead
     - Training members from [EMBL Bio-IT](https://bio-it.embl.de/) and [EMBL-EBI](https://competency.ebi.ac.uk/)
-    - Other projects with a vested interest
+    - Other projects with a vested interest:
+      - [Prof. Jyoti Choudhary from Institute of Cancer Research](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-jyoti-choudhary)
+      - Dr. Jessica Lindvall, [ELIXIR training platform](https://elixir-europe.org/platforms/training)
 - Graphic designer and illustrator: Scriberia artist/scribe will be hired to help prepare training material in an attractive, professional and engaging format.
 
 ## Milestones, Events and Stakeholder Engagement
