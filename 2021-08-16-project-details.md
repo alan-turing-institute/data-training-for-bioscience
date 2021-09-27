@@ -144,7 +144,7 @@ These members will include, but are not limited to, the training department and 
     
 ## Communication and Sustainability
 
-- A GitHub repository under the CC-By 4.0 and MIT license has been set to manage this project. Following the Open Source practices, the development of all materials will be coordinated via this repository.
+- A GitHub repository under the CC-BY 4.0 and MIT license has been set to manage this project. Following the Open Source practices, the development of all materials will be coordinated via this repository.
 - Emails, shared documents and surveys will be used for regular communication with the key stakeholders in the project.
 - The Turing Way Slack workspace will be used for asynchronous chats and interactions among all contributors of this project.
 - Zoom will be used for hosting meetings and the final sprint event.
