@@ -90,7 +90,7 @@
 ## Who else should be invited? (please feel free to add name and contact so we can involve them in the project)
 
 -   Turing data stories folks might find the masterclass format interesting and may have interest in creating/hosting demo
--   Dave Barry ([david.barry@crick.ac.uk](mailto:david.barry@crick.ac.uk)) (image analysis trainer @TheCrick)
+-   Dave Barry (image analysis trainer @TheCrick)
 
 ## Resources: (please add resources below that we should consider for this project)
 
