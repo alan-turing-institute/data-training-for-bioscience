@@ -32,23 +32,23 @@ Please see the [Project Charter](https://github.com/alan-turing-institute/data-t
 - [x] Set up the repository to develop this project openly
 - [x] Define scope and stakeholders for the project (help develop a project charter)
 - [x] Identify potential contributors of this project at the Turing
-- [ ] Identify potential contributors of this project at the Crick
-- [ ] Identify potential contributors from the wider research community
-  - Other institutes, projects and people with vested interest
-- [ ] Define the common vision, mission and target audience
-- [ ] Host meetings with all stakeholders to discuss
+- [x] Identify potential contributors of this project at the Crick
+- [x] Define the common vision, mission and target audience
+- [x] Host meetings with all stakeholders to discuss
   - The initial plans, project charter and goals
   - Agree on the best way to colleborate and communicate
   - Monthly update and feedback on the development (align expectations)
+- [ ] Identify potential contributors from the wider research community
+  - Other institutes, projects and people with vested interest
 
 ### Development Tasks
 
-- [ ] Define curriculum by selecting topics for content development (build concept map)
-- [ ] Select biological datasets - potentially provided by the Crick
-- [ ] Select open source references for reuse (see issues for reference materials)
-- [ ] Design training curriculum (concept map, data, reusable materials) using [Carpentries Development Handbook](https://cdh.carpentries.org/)
-- [ ] Set up the Carpentries template for material development (see [community lessons](https://carpentries.org/community-lessons/))
-- [ ] Define episodes (modules) and adapt training materials for biological datasets <-- REG member
+- [x] Define curriculum by selecting topics for content development (build concept map)
+- [x] Select open source references for reuse (see issues for reference materials)
+- [x] Design training curriculum (concept map, data, reusable materials) using [Carpentries Development Handbook](https://cdh.carpentries.org/)
+- [x] Set up the Carpentries template for material development (see [community lessons](https://carpentries.org/community-lessons/))
+- [x] Define episodes (modules) and adapt training materials for biological datasets <-- REG member
+- [ ] Select biological datasets - potentially provided by the Crick <-- Focus groups
 - [ ] Seek feedback periodically from all stakeholders and invite contributions <-- The Turing Way community manager
 - [ ] Release the first draft and invite the community for testing the materials
 
