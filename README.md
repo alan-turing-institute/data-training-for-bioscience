@@ -7,16 +7,26 @@ Materials developed through this project will enable foundational training in re
 
 <!--Please see the [project charters](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/2021-08-16-project-details.md) for details.-->
 
-**Core Contributors/Projects**
-- Member from the [Turing Research Engineering Group](https://www.turing.ac.uk/research-engineering) to help develop this training material
-- Community Manager, [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science) to support the community engagement through open source development
-- Member from [The Francis Crick Institute](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute) to represent this partnership and help coordinate this project from the Crick's side
-
 **Proposal Leads**
   - [Prof. Ben MacArthur](https://www.turing.ac.uk/people/researchers/ben-macarthur), Director of AI for Science and Government, Deputy Programme Director for Health and Medical Sciences
-  - [Dr. Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan), Tools, Practices and Systems Researcher
-  - [Dr. Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), Programme Director for Tools, Practices and Systems
-  - [Prof. Chris Holmes](https://www.turing.ac.uk/people/researchers/ben-macarthur), Programme Director for Health and Medical Sciences
+  - [Dr. Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan), Senior Researcher - Tools, Practices and Systems 
+  - [Dr. Alisha Davies](https://www.turing.ac.uk/people/researchers/alisha-davies), AI for Science and Government Health Theme Lead 
+  - [Dr. Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), Programme Director - Tools, Practices and Systems
+
+**Development Team**
+
+- [Dr. Lydia France](https://www.turing.ac.uk/people/researchers/lydia-france), Research Data Scientist
+- [Dr. Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan), Senior Researcher - Tools, Practices and Systems 
+- [Dr. Federico Nanni](https://www.turing.ac.uk/people/researchers/federico-nanni), Senior Researcher Data Scientist
+
+**Member from [The Francis Crick Institute](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute)**
+
+- [Prof. James Briscoe](https://www.crick.ac.uk/research/labs/james-briscoe), Senior Group Leader - Assistant Research Director
+- Rebecca Wilson, Head of Strategic Partnerships
+- James Fleming, Chief Information Officer
+
+_More members from both the Turing and Crick represent this partnership, contribute to project meeting and help coordinate this project._
+
 Please see the [project proposal](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/proposal/2021-06-ASG-proposal.md) for details.
 
 *Please create [an issue](https://github.com/alan-turing-institute/data-training-for-bioscience/issues) to share references or ideas related to the development of this project.*
