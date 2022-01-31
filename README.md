@@ -8,11 +8,8 @@ Furthermore, researchers will receive training for managing, supervising and fac
 
 <!--Please see the [project charters](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/2021-08-16-project-details.md) for details.-->
 
-**Proposal Leads**
-  - [Prof. Ben MacArthur](https://www.turing.ac.uk/people/researchers/ben-macarthur), Director of AI for Science and Government, Deputy Programme Director for Health and Medical Sciences
+**Proposal Lead**
   - [Dr. Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan), Senior Researcher - Tools, Practices and Systems 
-  - [Dr. Alisha Davies](https://www.turing.ac.uk/people/researchers/alisha-davies), AI for Science and Government Health Theme Lead 
-  - [Dr. Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), Programme Director - Tools, Practices and Systems
 
 **Development Team**
 
@@ -20,7 +17,13 @@ Furthermore, researchers will receive training for managing, supervising and fac
 - [Dr. Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan), Senior Researcher - Tools, Practices and Systems 
 - [Dr. Federico Nanni](https://www.turing.ac.uk/people/researchers/federico-nanni), Senior Researcher Data Scientist
 
-**Member from [The Francis Crick Institute](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute)**
+**Contributors from the Turing Research Programmes**
+
+- [Dr. Alisha Davies](https://www.turing.ac.uk/people/researchers/alisha-davies), AI for Science and Government Health Theme Lead 
+- [Dr. Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), Programme Director - Tools, Practices and Systems
+- [Prof. Ben MacArthur](https://www.turing.ac.uk/people/researchers/ben-macarthur), Director of AI for Science and Government, Deputy Programme Director for Health and Medical Sciences
+
+**Contributors from [The Francis Crick Institute](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute)**
 
 - [Prof. James Briscoe](https://www.crick.ac.uk/research/labs/james-briscoe), Senior Group Leader - Assistant Research Director
 - Rebecca Wilson, Head of Strategic Partnerships
@@ -49,7 +52,7 @@ Please see the [Project Charter](https://github.com/alan-turing-institute/data-t
   - The initial plans, project charter and goals
   - Agree on the best way to colleborate and communicate
   - Monthly update and feedback on the development (align expectations)
-- [ ] Identify potential contributors from the wider research community
+- [x] Identify potential contributors from the wider research community
   - Other institutes, projects and people with vested interest
 
 ### Development Tasks
@@ -59,11 +62,30 @@ Please see the [Project Charter](https://github.com/alan-turing-institute/data-t
 - [x] Design training curriculum (concept map, data, reusable materials) using [Carpentries Development Handbook](https://cdh.carpentries.org/)
 - [x] Set up the Carpentries template for material development (see [community lessons](https://carpentries.org/community-lessons/))
 - [x] Define episodes (modules) and adapt training materials for biological datasets <-- REG member
-- [ ] Select biological datasets - potentially provided by the Crick <-- Focus groups
+- [ ] Select biological datasets - potentially provided by the Crick <-- Focus groups TBD
 - [ ] Seek feedback periodically from all stakeholders and invite contributions <-- The Turing Way community manager
 - [ ] Release the first draft and invite the community for testing the materials
 
-*Please create [an issue](https://github.com/alan-turing-institute/data-training-for-bioscience/issues) to add any milestone or goals that are currently missing from the roadmap.*
+## Main deliverables
+
+Training materials for two masterclasses will be developed and shared from this project.
+
+1. Introduction to data science and AI for senior researchers: This masterclass will also touch on some concepts related to algorithm selection, statistical approaches and the potential additionality of Machine Learning and Deep Learning.
+2. Managing and supervising computational Projects: This masterclass will provide an understanding of open source tools, version control, literate programming, Markdown, GitHub, metadata and other collaborative approaches.
+    
+Inviting feedback from the mid- to late-career researchers from the Turing, the Crick and wider research communities, these masterclasses will build a shared understanding of good practice principles to facilitate the integration of reproducible computational approaches from data science into biological research.
+
+## The Carpentries Incubator
+
+The training materials will be developed openly from the start under [The Carpentries Incubator](https://carpentries.org/community-lessons/#the-carpentries-incubator) GitHub organisation.
+
+These are two separate GitHub repositories for the two masterclasses:
+- Masterclass 1: Introduction to Data Science and AI for senior researchers: https://github.com/carpentries-incubator/data-science-ai-senior-researchers
+- Masterclass 2: Managing Open and Reproducible Computational Projects: https://github.com/carpentries-incubator/managing-computational-projects
+
+Though developed under subtitles Masterclass 1 and 2, both the materials will be standalone and modular to encourage their use independent of each other.
+
+*Please create [an issue](https://github.com/alan-turing-institute/data-training-for-bioscience/issues) to add any milestone or goals that are currently missing from the roadmap, or to suggest new features.*
 
 📫 Contact
 ---
