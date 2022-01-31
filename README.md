@@ -2,8 +2,9 @@
 
 ## About
 
-This project will facilitate the development of introductory training resources on good data science practices for early-career biomedical scientists. 
-Materials developed through this project will enable foundational training in reproducible research and data science for the wider cell and molecular biology community.
+This project will facilitate the development of training resources on data science practices for senior researchers, group leaders, late PhD/Postdocs and mid- to late-career biomedical scientists. 
+Materials developed through this project will enable a foundational understanding of AI and data science in the context of biosciences.
+Furthermore, researchers will receive training for managing, supervising and facilitating open and reproducible research for the wider biology community.
 
 <!--Please see the [project charters](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/2021-08-16-project-details.md) for details.-->
 
