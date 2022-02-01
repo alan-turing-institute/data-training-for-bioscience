@@ -38,7 +38,7 @@ Please see the [project proposal](https://github.com/alan-turing-institute/data-
 🎯 Roadmap
 ---
 
-Please see the [Project Charter](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/2021-08-16-project-details.md) for details.
+Please see the [Project Charter](https://github.com/alan-turing-institute/data-training-for-bioscience/tree/main/project-charter) for details.
 
 ### Logistics before starting the project
 
