@@ -6,7 +6,7 @@ This project will facilitate the development of training resources on data scien
 Materials developed through this project will enable a foundational understanding of AI and data science in the context of biosciences.
 Furthermore, researchers will receive training for managing, supervising and facilitating open and reproducible research for the wider biology community.
 
-<!--Please see the [project charters](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/2021-08-16-project-details.md) for details.-->
+<!--Please see the [project charters](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/project-charter) for details.-->
 
 **Proposal Lead**
   - [Dr. Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan), Senior Researcher - Tools, Practices and Systems 
