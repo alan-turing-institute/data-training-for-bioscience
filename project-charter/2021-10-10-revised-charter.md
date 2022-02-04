@@ -2,31 +2,44 @@
 
 ## Title: 
 
-Turing-Crick Introduction to Data Science for Bioscience and Biomedical Researchers  
+Introduction to Data Science for Biomedical Scientists: The Turing/Crick Partnership Project
 
 ## Aims and Objectives  
 
-The Turing-Crick Introduction to Data Science project, under [the Turing-Crick strategic partnership](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute), will provide data science learning resources for the experimental biologists and biomedical research communities.
+Introduction to Data Science for Biomedical Scientists is a training project developed under [the Turing-Crick strategic partnership](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/francis-crick-institute).
+We aim to provide two masterclasses for the experimental biologists and biomedical research communities, with a focus on two key professional/career groups
+1. Group leaders without prior experience with Data Science and ML/AI - interested in understanding the potential additionality and application in their areas of expertise
+2. Post doc/Lab scientists – next generation senior leaders - interested in additionality, but also the group more likely to benefit from tools to equip them with the requirements to enable the integration of computational science into biosciences
 
-The Turing and Crick researchers will work with the interested members from the wider open science and bioinformatics communities to design and develop curriculum and training resources in this project. 
-We will curate materials from [The Carpentries](https://carpentries.org/), [The Turing Way](https://the-turing-way.netlify.app/welcome) and several other relevant open source projects. 
-Training materials will be complemented carefully with biological datasets to ensure that materials are relatable for our target audience and presented in an accessible manner.
+The Turing and Crick researchers and interested contributors from the wider open science and bioinformatics communities will be invited to share feedback which will be integrated in the design and development of training resources in this project. 
+Content for the masterclassed will be complemented carefully with biological datasets to ensure that materials are relatable for our target audience and presented in an accessible manner.
+
+We will curate materials from [The Carpentries](https://carpentries.org/), [The Turing Way](https://the-turing-way.netlify.app/welcome) and other relevant open source projects.
+Materials will be developed and hosted in The Carpentries Incubator and maintained by *The Turing Way* team members.
 
 ## Background and Motivation
 
-Initial projects and feedback from Crick partners including [The Crick-Turing Biomedical Data Science Awards](https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards) have indicated that there is a strong need to provide introductory resources for data science in bioscience researchers. 
+Initial projects and feedback from Crick partners including [The Crick-Turing Biomedical Data Science Awards](https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards) have indicated that there is a strong need to provide introductory resources for data science in bioscience researchers.
 Similar feedback has been received via the [Turing ‘omics interest group](https://www.turing.ac.uk/research/interest-groups/omics-data-generation-and-analysis-group) indicating that there is a need for foundational training for the wider cell and molecular biology community. 
 
-This project will help equip experimental biomedical scientists from all skills and career stages with the computational skills to carry out meaningful analyses of their datasets through data exploration, management, and visualisation.
-Our aim will be to present unfamiliar or complex material to experimentalists in a relatable and easily accessible way. 
+Several resources exist for the early career researchers to learn about and apply data science approaches in their work.
+However, there is a need to engage and educate senior researchers in biomedical research on the concepts, importance and application of data science, Machine Learning and Artificial Intelligence to allow them to make informed decisions around their application in their research.
+To address the gap in training opportunities, this project will help equip experimental biomedical scientists in mid- to late- career stages with the computational skills to enable meaningful analyses of research datasets through data exploration, management, and visualisation.
+Our aim will be to present unfamiliar or complex material to biologists in a relatable and easily accessible way. 
 
 This project will directly address two main focus areas of AI for Science and Government research programmes: good data science practice; and effective communication to stakeholders. 
 In building this project, we will integrate the 'Tools, practices and systems' (TPS) programme’s core values: build trustworthy systems; embed transparent reporting practices; promote inclusive interoperable design; maintain ethical integrity and encourage respectful co-creation.
 
 ## Main Considerations
 
-Several computational resources already exist (see issues [#1](https://github.com/alan-turing-institute/data-training-for-bioscience/issues/1) and [#7](https://github.com/alan-turing-institute/data-training-for-bioscience/issues/7)), but targeted measures and opportunities are required to help build a shared understanding of good data science practices and reproducible research. 
-In this project, data science introductory materials will be developed and shared for anyone to repurpose and promote good practice for computational reproducibility in biomedical research.
+Several computational resources already exist (see issues [#1](https://github.com/alan-turing-institute/data-training-for-bioscience/issues/1) and [#7](https://github.com/alan-turing-institute/data-training-for-bioscience/issues/7)), but targeted measures and opportunities are required for researchers as supervisor and advisor positions to help build a better understanding of data science and good practices for reproducible research.
+
+In this project, two masterclasses will provide an overview on the potential additionality of AI/ML to life science disciplines, and to build a shared understanding of good practice principles to facilitate the integration and reproducibility of computational data science, into these areas.
+Masterclasses
+- Introduction to data science, Machine Learning, Deep Learning, AI
+- Managing and supervising computational Projects
+    
+Data science introductory materials will be developed and shared for anyone to repurpose and promote good practice for computational reproducibility in biomedical research.
 One of the focuses of this project is to teach the importance of statistical approaches in biological research. 
 For example, understanding how computational skills and programming can help apply statistical approaches to data analysis and draw insights from their research.
 
