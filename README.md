@@ -6,6 +6,8 @@ This project will facilitate the development of training resources on data scien
 Materials developed through this project will enable a foundational understanding of AI and data science in the context of biosciences.
 Furthermore, researchers will receive training for managing, supervising and facilitating open and reproducible research for the wider biology community.
 
+This project is a follow up of [The Crick-Turing Biomedical Data Science Awards (BDSAs)](https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards) (project period: 01/10/2019 – 28/02/2021) carried out under the Turing and Crick partnership.
+
 <!--Please see the [project charters](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/project-charter) for details.-->
 
 **Proposal Lead**
