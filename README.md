@@ -73,8 +73,8 @@ Please see the [Project Charter](https://github.com/alan-turing-institute/data-t
 - [x] Design training curriculum (concept map, data, reusable materials) using [Carpentries Development Handbook](https://cdh.carpentries.org/)
 - [x] Set up the Carpentries template for material development (see [community lessons](https://carpentries.org/community-lessons/))
 - [x] Define episodes (modules) and adapt training materials for biological datasets <-- REG member
-- [ ] Select biological datasets - potentially provided by the Crick <-- Focus groups TBD
-- [ ] Seek feedback periodically from all stakeholders and invite contributions <-- The Turing Way community manager
+- [x] Select biological datasets - potentially provided by the Crick through 1:1 interviews
+- [ ] Seek feedback periodically from all stakeholders and invite contributions <-- Review and illustration sprint
 - [ ] Release the first draft and invite the community for testing the materials
 
 ## Main deliverables
