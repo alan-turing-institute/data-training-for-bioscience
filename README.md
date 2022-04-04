@@ -31,6 +31,15 @@ This project is a follow up of [The Crick-Turing Biomedical Data Science Awards 
 - Rebecca Wilson, Head of Strategic Partnerships
 - James Fleming, Chief Information Officer
 
+**Thanks to these researchers for sharing feedback and examples to include on the earlier drafts of our training materials!**
+
+- **Victor Tybulewicz**: Group Leader, The Francis Crick Institute, [Lab page](https://www.crick.ac.uk/research/labs/victor-tybulewicz)
+- **Radoslav Enchev**: Group Leader, The Francis Crick Institute, [Lab page](https://www.crick.ac.uk/research/labs/radoslav-enchev)
+- **Francesca Ciccarelli**: Group Leader, The Francis Crick Institute, [Lab page](https://www.crick.ac.uk/research/labs/francesca-ciccarelli)
+- **Florencia Iacaruso**: Group Leader, The Francis Crick Institute, [Lab page](https://www.crick.ac.uk/research/labs/flor-iacaruso)
+- **Evangenline Corcoran**: Postdoctoral Researcher, The Alan Turing Institute, [Personal page](https://research.qut.edu.au/qase/members/evangeline-corcoran)
+- **Jim Maas**: Postdoctoral Scientist - Computational Biologist, John Innes Center, [Personal page](https://www.jic.ac.uk/people/jim-maas/)
+
 _More members from both the Turing and Crick represent this partnership, contribute to project meeting and help coordinate this project._
 
 Please see the [project proposal](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/proposal/2021-06-ASG-proposal.md) for details.
