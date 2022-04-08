@@ -57,10 +57,11 @@ Timeline: Next stage in the project
 -----------------------------------
 
 **Turing Team**: 
--   Develop the format, questions and materials required for the 1:1 meeting with the Crick PIs (UX plan) before 15 January 2022.
--   Integrate suggestions described in this document across two masterclasses (Please note that the masterclass now listed as the second masterclass is currently being developed which will be shared on GitHub)
+- Develop the format, questions and materials required for the 1:1 meeting with the Crick PIs (UX plan) before 15 January 2022. 
+- Integrate suggestions described in this document across two masterclasses (Please note that the masterclass now listed as the second masterclass is currently being developed which will be shared on GitHub)
+
 **Crick and Turing Teams**: 
-To arrange 1:1 or focus group with the Crick PIs (potential target audience)  between 15 January 2022 - 22 February 2022 to explore challenges, concerns and understanding of best practices in data science from their fields, which can be integrated into the training courses. (James F. to coordinate from the Crick team)
+- Arrange 1:1 or focus group with the Crick PIs (potential target audience)  between 15 January 2022 - 22 February 2022 to explore challenges, concerns and understanding of best practices in data science from their fields, which can be integrated into the training courses. (James F. to coordinate from the Crick team)
 - Crick Team:  Provide more details on the suggested specialist topics/areas from PI’s preferably by 20 January 2022. This will be crucial in deciding the location for these topics between the two proposed masterclasses. Please let the Turing Team know if more time might be required.
 - Turing Team: To continue developing and refining two masterclasses in line with the details above, apply examples from the Turing and Crick (look for these examples in the UX process). To ensure iterative and collaborative development, as well as sustainability of two masterclasses, the materials will be shared via a GitHub repository using The Carpentries training format (under CC-BY 4.0 license):
 - Both Teams: Turing Team to share the first drafts of the one masterclass for comments, suggestions and co-development on GitHub with the Crick Team by 25 March 2022.
