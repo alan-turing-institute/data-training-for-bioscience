@@ -8,6 +8,11 @@ Furthermore, researchers will receive training for managing, supervising and fac
 
 This project is a follow up of [The Crick-Turing Biomedical Data Science Awards (BDSAs)](https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards) (project period: 01/10/2019 – 28/02/2021) carried out under the Turing and Crick partnership.
 
+### Two Masterclasses developed in this prgramme
+
+- Introduction to Data Science and AI for senior researchers: https://carpentries-incubator.github.io/managing-computational-projects/
+- Managing Open and Reproducible Computational Projects: https://carpentries-incubator.github.io/data-science-ai-senior-researchers/
+
 <!--Please see the [project charters](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/project-charter) for details.-->
 
 **Proposal Lead**
