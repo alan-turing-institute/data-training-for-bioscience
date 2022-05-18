@@ -7,13 +7,19 @@ Materials developed through this project will enable a foundational understandin
 Furthermore, researchers will receive training for managing, supervising and facilitating open and reproducible research for the wider biology community.
 
 This project is a follow up of [The Crick-Turing Biomedical Data Science Awards (BDSAs)](https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards) (project period: 01/10/2019 – 28/02/2021) carried out under the Turing and Crick partnership.
+Funded by the AI for Science and Government Research programme, this project ran from October 2021 to March 2022.
 
-### Two Masterclasses developed in this prgramme
+### Masterclasses developed in this prgramme
 
 - Introduction to Data Science and AI for senior researchers: https://carpentries-incubator.github.io/managing-computational-projects/
 - Managing Open and Reproducible Computational Projects: https://carpentries-incubator.github.io/data-science-ai-senior-researchers/
 
-<!--Please see the [project charters](https://github.com/alan-turing-institute/data-training-for-bioscience/blob/main/project-charter) for details.-->
+Researchers from outside this project were invited to review and enhance these materials by integrating real-world examples from their work.
+Additionally, professional illustrators (Scriberia) worked with researchers in this projects to develop illustrations to be paired with the written contents.
+
+All materials including the illustrations (see [`illustrations-from-review-sprint`](./illustrations-from-review-sprint)) are shared under CC-BY 4.0 License for reuse, remix, sharing and distribution with appropriate citation.
+
+### Project members
 
 **Proposal Lead**
   - [Dr. Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan), Senior Researcher - Tools, Practices and Systems 
