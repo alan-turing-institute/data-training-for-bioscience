@@ -11,8 +11,8 @@ Funded by the AI for Science and Government Research programme, this project ran
 
 ### Masterclasses developed in this prgramme
 
-- Introduction to Data Science and AI for senior researchers: https://carpentries-incubator.github.io/managing-computational-projects/
-- Managing Open and Reproducible Computational Projects: https://carpentries-incubator.github.io/data-science-ai-senior-researchers/
+- Introduction to Data Science and AI for senior researchers: https://carpentries-incubator.github.io/data-science-ai-senior-researchers/
+- Managing Open and Reproducible Computational Projects: https://carpentries-incubator.github.io/managing-computational-projects/
 
 Researchers from outside this project were invited to review and enhance these materials by integrating real-world examples from their work.
 Additionally, professional illustrators (Scriberia) worked with researchers in this projects to develop illustrations to be paired with the written contents.
