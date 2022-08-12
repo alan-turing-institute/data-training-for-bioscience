@@ -1,13 +1,15 @@
-# Introduction to Data Science for Biomedical Scientists: Turing-Crick Partnership Project
+# Turing-Crick Partnership Project
 
-## About
+*This project will facilitate the development of strategic partnership and resources around skills and capacity building in data science in biomedical research.*
 
-This project will facilitate the development of training resources on data science practices for senior researchers, group leaders, late PhD/Postdocs and mid- to late-career biomedical scientists. 
+## Phase 2: Masterclasses in Data Science and AI for senior researcher
+
+Introduction to Data Science abd AI for senior researchers, group leaders, late PhD/Postdocs and mid- to late-career biomedical scientists. 
 Materials developed through this project will enable a foundational understanding of AI and data science in the context of biosciences.
 Furthermore, researchers will receive training for managing, supervising and facilitating open and reproducible research for the wider biology community.
-
-This project is a follow up of [The Crick-Turing Biomedical Data Science Awards (BDSAs)](https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards) (project period: 01/10/2019 – 28/02/2021) carried out under the Turing and Crick partnership.
 Funded by the AI for Science and Government Research programme, this project ran from October 2021 to March 2022.
+
+This project is a follow up of [The Crick-Turing Biomedical Data Science Awards (BDSAs)](https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards) (**Phase 1** project period: 01/10/2019 – 28/02/2021) carried out under the Turing and Crick partnership.
 
 ### Masterclasses developed in this prgramme
 
