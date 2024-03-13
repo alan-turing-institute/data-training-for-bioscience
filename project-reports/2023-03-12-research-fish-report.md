@@ -14,20 +14,22 @@ Review and pilot delivery of the training for project leaders - funded by The Tu
 
 **Briefly describe the contributions made by you and/or your research team to this collaboration or partnership.**
 
-The Health program generously allocated approximately £5000 to support the review and delivery of training materials that were previously funded by ASG and developed under the Turing-Crick partnership (project repository). Guided by Malvika, two sets of training materials were collaboratively developed in 2022 under the GitHub infrastructure of The Carpentries. 
+The Health program allocated £5000 to support the review and delivery of training materials that were previously developed under the Turing-Crick partnership and funded by ASG. Two sets of training materials were collaboratively developed in 2022 on GitHub repositories openly. 
 
-With the recent funding from Health, Malvika engaged in a collaborative effort with Julien Colomb from TU Berlin, receiving valuable in-kind support, and Jo Havemann from Access 2 Perspective. Access 2 Perspective was contracted to conduct an external review and editing of the materials and also took on the responsibility of leading the delivery of the training materials. Throughout this process, active involvement from _The Turing Way_ community was ensured, fostering a holistic and community-driven approach to the project.
+With the recent funding from Health, the project team collaborated with Julien Colomb from TU Berlin, receiving valuable in-kind support, and Jo Havemann from Access 2 Perspective. Access 2 Perspective was contracted to conduct an external review and editing of the materials and lead the delivery of a pilot training workshop. Throughout this process, _The Turing Way_ community was actively engaged, fostering a community-driven approach to the project.
 
 **Briefly describe the contributions made by your partners to this collaboration or partnership.**
 
 This collaboration resulted in the revision and enhancement of the training material titled "Introduction to Data Science and AI for Senior Researchers" (available at: https://carpentries-incubator.github.io/data-science-ai-senior-researchers/). Additionally, the second set of training materials, "Managing Open and Reproducible Computational Projects" (https://carpentries-incubator.github.io/managing-computational-projects/), underwent a comprehensive restructuring. Supporting resources for trainers were also developed, enhancing the delivery of the training workshop.
 
-On September 14th and 15th, the training was piloted by Jo, Julien, and Malvika with the participation of senior postdocs and support infrastructure staff from various international organisations. The event garnered 25 registrations, with 10 individuals being invited to the workshop. These participants were selected to engage, provide feedback, and leverage the resources to conduct future workshops within their organisations. Details of the event can be found on [Eventbrite page](https://www.eventbrite.co.uk/e/managing-open-reproducible-computational-projects-for-project-leaders-tickets-691159656137?aff=oddtdtcreator). The materials used for the workshop, along with participant feedback, will be instrumental in supporting other trainers interested in facilitating these sessions within their networks.
+On September 14th and 15th, the training was piloted by Jo, Julien, and Malvika with the participation of senior postdocs and support infrastructure staff from various international organisations. The event attracted 25 registrations, with 10 individuals being invited to the workshop. These participants were selected to engage, provide feedback, and leverage the resources to conduct future workshops within their organisations. Details of the event can be found on [Eventbrite page](https://www.eventbrite.co.uk/e/managing-open-reproducible-computational-projects-for-project-leaders-tickets-691159656137?aff=oddtdtcreator). The materials used for the workshop, along with participant feedback, will be instrumental in supporting other trainers interested in facilitating these sessions within their networks.
 
 **In which year did this collaboration or partnership commence?**
+
 2023
 
 **Active Links:**
+
 * https://github.com/alan-turing-institute/data-training-for-bioscience/
 * https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards 
 
